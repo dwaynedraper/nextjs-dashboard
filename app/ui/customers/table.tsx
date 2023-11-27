@@ -5,7 +5,7 @@ import { CustomersTable, FormattedCustomersTable } from '@/app/lib/definitions';
 
 export default async function CustomersTable({
   customers,
-}: {
+}: {https://us.creativecdn.com/clicks?id=20231110_6lrH1JLgpt1egpFtZQML&tk=zlHPs3QuJi8trURgvD-NuFXoR-2c8Sj5ZqqgfhC7no5280Adcr5qM6Bcu3fMQy0WGAr9LqOOQtuoO1GZkf9nurtPWmrItGPgTOGefKnB50_HVkbacXZ-IHbSjwgLZWpMbdvaAzB6VAMjt-dLM2Zl28LLnT8TObq9DHnpw7adFBnIiXVFgW0AWyP7YEHZq378HTjz0SFEZQhaeNhW_ybZ6Rb9NwBmZURqujTXFqhwWXbDXBlOeUBaawSd7qxQCZtDDU2L-r41Z1Ww04IGmGagrFHEQc177T2ZNU-AJBORsZcfvM4o3QCiPU5xCLa6iu12G8tQ4MGjpwNQBSrdK-GFaRa2-RWeNyoiMUCPz61QdSCTtyJz16-oUqTFKnnv_Te9E8QHPRn9GOvbZBynllGE271if5n-RlczUybiT312-U0lge2iPTTT2yj3cvQvrk1HuWuP52_2S7XZHvlHC0N0RTss-UnhyVKE6Us1sd2K6qc
   customers: FormattedCustomersTable[];
 }) {
   return (
